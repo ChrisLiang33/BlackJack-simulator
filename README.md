@@ -10,7 +10,7 @@ Backend (Node.js and Express.js)
 Game Logic: Implement the core game logic on the server side using Node.js and Express.js. This includes shuffling the deck, dealing cards, and determining win/loss conditions.
 API Endpoints: Create RESTful API endpoints to manage game actions like dealing cards or performing player actions. These endpoints will interact with the frontend.
 Database Interaction: If you plan to store game data, user accounts, or historical game results, use MongoDB to manage this data.
-Database (MongoDB)
+Database (MongoDB)·
 Storing Game Data: Keep track of ongoing game states, completed games, player statistics, and potentially user accounts.
 Data Retrieval and Updates: Provide functionality to retrieve and update game-related data as the game progresses or as players interact with the application.
 Development Steps
